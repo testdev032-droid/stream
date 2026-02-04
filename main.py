@@ -1,6 +1,6 @@
 # main.py (Streamlit)
 # Switch provider by changing the import line:
-from hf import generate_response
+from groq import generate_response
 # from groq import generate_response
 
 import re
